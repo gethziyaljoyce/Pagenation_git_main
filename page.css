@@ -1,0 +1,8 @@
+
+button{
+    background: cornflowerblue;
+    height: 2rem;
+    min-width:2rem ;
+    font-size: large;
+    border-radius: 5px;
+}
